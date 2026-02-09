@@ -1,0 +1,5050 @@
+[
+  {
+    "id": "I-IV-V-rock",
+    "name": "I - IV - V (Basic Rock/Folk)",
+    "description": "The foundation of thousands of rock, folk, and country songs.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "essential",
+      "basic"
+    ],
+    "examples": [
+      "Johnny B. Goode",
+      "Wild Thing"
+    ],
+    "likes": 5000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-V-vi-IV-axis",
+    "name": "I - V - vi - IV (Modern Pop Axis)",
+    "description": "The ubiquitous 'four chord' progression used in countless modern hits.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "popular",
+      "axis"
+    ],
+    "examples": [
+      "Don't Stop Believin'",
+      "Let It Be"
+    ],
+    "likes": 12000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-IV-I-V-sensitive",
+    "name": "vi - IV - I - V (Sensitive Epic Loop)",
+    "description": "A minor-starting variation of the Axis progression, often used for emotional building.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "epic",
+      "emotional"
+    ],
+    "examples": [
+      "Someone Like You",
+      "No Woman No Cry"
+    ],
+    "likes": 11000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-vi-IV-V-doo-wop",
+    "name": "I - vi - IV - V (50s Doo-Wop)",
+    "description": "Classic nostalgic progression common in the 1950s.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "nostalgic",
+      "50s"
+    ],
+    "examples": [
+      "Stand By Me",
+      "Earth Angel"
+    ],
+    "likes": 8000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "ii-V-I-jazz-standard",
+    "name": "ii - V - I (Jazz Foundation)",
+    "description": "The most fundamental building block in jazz music.",
+    "chords": [
+      {
+        "root": "D",
+        "type": "min7",
+        "notes": [
+          "D",
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "7",
+        "notes": [
+          "G",
+          "B",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "maj7",
+        "notes": [
+          "C",
+          "E",
+          "G",
+          "B"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "intermediate",
+    "tags": [
+      "jazz",
+      "essential"
+    ],
+    "examples": [
+      "Autumn Leaves",
+      "All of Me"
+    ],
+    "likes": 9500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-vi-V-pop",
+    "name": "I - IV - vi - V (Modern Pop Variation)",
+    "description": "A gentle and emotional major key progression.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "modern",
+      "emotional"
+    ],
+    "examples": [
+      "Perfect"
+    ],
+    "likes": 4000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-V-IV-V-falling",
+    "name": "vi - V - IV - V (The 'Falling' Epic)",
+    "description": "A powerful descending pattern with Spanish flavor.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "intermediate",
+    "tags": [
+      "epic",
+      "descending"
+    ],
+    "examples": [
+      "Hit the Road Jack"
+    ],
+    "likes": 6000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-V-IV-stones",
+    "name": "I - V - IV (Classic Rock Loop)",
+    "description": "Stones-style foundation for simple rock tracks.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "stoner",
+      "classic"
+    ],
+    "examples": [
+      "Brown Sugar"
+    ],
+    "likes": 3000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-vi-ii-V-turnaround",
+    "name": "I - vi - ii - V (Jazz Turnaround)",
+    "description": "A standard jazz turnaround often used for transitions.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "beginner",
+    "tags": [
+      "turnaround",
+      "smooth"
+    ],
+    "examples": [
+      "Heart and Soul"
+    ],
+    "likes": 4500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-bVII-IV-mixolydian",
+    "name": "I - bVII - IV (Mixolydian Rock)",
+    "description": "Mixolydian sound used in many classic rock anthems.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "mixolydian",
+      "anthem"
+    ],
+    "examples": [
+      "Sweet Home Alabama"
+    ],
+    "likes": 7500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-V-vi-iii",
+    "name": "I - V - vi - iii",
+    "description": "Descending pop loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "loop",
+      "descending"
+    ],
+    "likes": 2000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "IV-I-V-vi",
+    "name": "IV - I - V - vi",
+    "description": "Pop loop starting on the four chord.",
+    "chords": [
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "loop",
+      "pop"
+    ],
+    "likes": 3000,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-V-I-IV",
+    "name": "vi - V - I - IV",
+    "description": "Moody loop with a resolve to the four.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "moody",
+      "loop"
+    ],
+    "likes": 2500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-iii-IV-V",
+    "name": "I - iii - IV - V",
+    "description": "Ascending pop pattern.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "ascending"
+    ],
+    "likes": 1500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-ii-IV-V",
+    "name": "I - ii - IV - V",
+    "description": "Smooth scalar movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "scalar",
+      "simple"
+    ],
+    "likes": 1800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-IV-V-I",
+    "name": "vi - IV - V - I",
+    "description": "Classic resolution cycle.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "cycle"
+    ],
+    "likes": 2200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-V-ii-IV",
+    "name": "I - V - ii - IV",
+    "description": "Modern alternative pop loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "intermediate",
+    "tags": [
+      "modern"
+    ],
+    "likes": 3100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-I-V",
+    "name": "I - IV - I - V",
+    "description": "Simple alternating loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "folk",
+    "complexity": "beginner",
+    "tags": [
+      "folk",
+      "country"
+    ],
+    "likes": 1200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-iii-vi-IV",
+    "name": "I - iii - vi - IV",
+    "description": "Stable emotional movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "ballad",
+    "complexity": "beginner",
+    "tags": [
+      "ballad"
+    ],
+    "likes": 2800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-iii-IV-I",
+    "name": "vi - iii - IV - I",
+    "description": "Downward minor loop.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "minor"
+    ],
+    "likes": 1900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-V-IV-loop",
+    "name": "I - IV - V - IV",
+    "description": "Rock standard loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "rock"
+    ],
+    "likes": 2300,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-ii-iii-IV",
+    "name": "I - ii - iii - IV",
+    "description": "Stepwise ascending loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "stepwise"
+    ],
+    "likes": 1100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "V-IV-I-V-loop",
+    "name": "V - IV - I - V",
+    "description": "Loop starting on the dominant.",
+    "chords": [
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "loop"
+    ],
+    "likes": 1400,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-ii-V-I-jazz-cycle",
+    "name": "vi - ii - V - I",
+    "description": "Foundational jazz circle loop.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "intermediate",
+    "tags": [
+      "jazz"
+    ],
+    "likes": 3500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-bVII-vi-bVI-walking",
+    "name": "I - bVII - vi - bVI",
+    "description": "Descending chromatic line.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "Ab",
+        "type": "major",
+        "notes": [
+          "G#",
+          "C",
+          "D#"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "advanced",
+    "tags": [
+      "descending",
+      "chromatic"
+    ],
+    "likes": 2600,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-bIII-bVII-IV-grunge",
+    "name": "I - bIII - bVII - IV",
+    "description": "Grunge style loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "Eb",
+        "type": "major",
+        "notes": [
+          "D#",
+          "G",
+          "A#"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "grunge",
+      "NIRVANA"
+    ],
+    "likes": 4800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-bVII-IV-loop",
+    "name": "I - IV - bVII - IV",
+    "description": "Bluesy rock loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "rock"
+    ],
+    "likes": 1700,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-V-bVII-IV-loop",
+    "name": "I - V - bVII - IV",
+    "description": "Anthematic rock loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "anthem"
+    ],
+    "likes": 2200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-vi-iii-V-loop",
+    "name": "I - vi - iii - V",
+    "description": "Stable pop movement loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "pop"
+    ],
+    "likes": 1500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "IV-V-vi-I-loop",
+    "name": "IV - V - vi - I",
+    "description": "Resolve loop.",
+    "chords": [
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "resolve"
+    ],
+    "likes": 3200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-VI-III-VII-zombie",
+    "name": "i - VI - III - VII",
+    "description": "Minor pop staple.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "minor",
+      "pop"
+    ],
+    "likes": 5600,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-VII-VI-V-flamenco",
+    "name": "i - VII - VI - V",
+    "description": "Andalusian cadence.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "intermediate",
+    "tags": [
+      "flamenco",
+      "cadence"
+    ],
+    "likes": 4200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-iv-V-minor-blues",
+    "name": "i - iv - V",
+    "description": "Minor blues foundation.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      }
+    ],
+    "style": "blues",
+    "complexity": "beginner",
+    "tags": [
+      "minor",
+      "blues"
+    ],
+    "likes": 2100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-iv-VII-III-minor-cycle",
+    "name": "i - iv - VII - III",
+    "description": "Minor key cycle.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "minor",
+      "cycle"
+    ],
+    "likes": 1800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-VI-iv-V-moody",
+    "name": "i - VI - iv - V",
+    "description": "Moody minor loop.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      }
+    ],
+    "style": "ballad",
+    "complexity": "beginner",
+    "tags": [
+      "moody",
+      "minor"
+    ],
+    "likes": 4800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-v-iv-bVI-somber",
+    "name": "i - v - iv - bVI",
+    "description": "Deeply somber minor movement.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "intermediate",
+    "tags": [
+      "somber",
+      "minor"
+    ],
+    "likes": 1300,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-VII-v-VI-loop",
+    "name": "i - VII - v - VI",
+    "description": "Unusual minor key loop.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "intermediate",
+    "tags": [
+      "minor",
+      "loop"
+    ],
+    "likes": 2400,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-bVI-bVII-heroic",
+    "name": "i - bVI - bVII",
+    "description": "Heroic minor resolution.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "heroic",
+      "minor"
+    ],
+    "likes": 4500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-iv-VI-V-resolve",
+    "name": "i - iv - VI - V",
+    "description": "Strong minor cadence.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "minor",
+      "resolve"
+    ],
+    "likes": 1900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "iv-i-V-i-classical",
+    "name": "iv - i - V - i",
+    "description": "Classical minor cadence.",
+    "chords": [
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "beginner",
+    "tags": [
+      "classical",
+      "resolve"
+    ],
+    "likes": 1400,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-VII-III-VI-step",
+    "name": "i - VII - III - VI",
+    "description": "Stepwise minor descent.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "minor",
+      "descending"
+    ],
+    "likes": 3200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-V-VI-iv-ballad",
+    "name": "i - V - VI - iv",
+    "description": "Emotional ballad movement.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      }
+    ],
+    "style": "ballad",
+    "complexity": "intermediate",
+    "tags": [
+      "ballad",
+      "minor"
+    ],
+    "likes": 2100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-III-VII-VI-hop",
+    "name": "i - III - VII - VI",
+    "description": "Jumping minor pattern.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "minor",
+      "jump"
+    ],
+    "likes": 2700,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-bII-i-phrygian",
+    "name": "i - bII - i",
+    "description": "Classic Phrygian darkness.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "advanced",
+    "tags": [
+      "phrygian",
+      "dark"
+    ],
+    "likes": 1100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-v-i-natural",
+    "name": "i - v - i",
+    "description": "Simple natural minor cadence.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "folk",
+    "complexity": "beginner",
+    "tags": [
+      "natural minor"
+    ],
+    "likes": 900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-IV-i-dorian",
+    "name": "i - IV - i",
+    "description": "Major IV in a minor key (Dorian).",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "major",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "dorian",
+      "rock"
+    ],
+    "likes": 3800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-VI-VII-i-epic",
+    "name": "i - VI - VII - i",
+    "description": "Epic minor resolution.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "epic",
+      "minor"
+    ],
+    "likes": 4200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-iv-VI-i-loop",
+    "name": "i - iv - VI - i",
+    "description": "Moody minor loop.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "minor",
+      "loop"
+    ],
+    "likes": 2100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-v-VI-VII-ascent",
+    "name": "i - v - VI - VII",
+    "description": "Ascending minor pattern.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "ascending"
+    ],
+    "likes": 2900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "i-bIII-IV-bVI-exp",
+    "name": "i - bIII - IV - bVI",
+    "description": "Experimental minor loop.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "major",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "experimental",
+      "minor"
+    ],
+    "likes": 1600,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "ii7-V7-Imaj7-VI7-cycle",
+    "name": "ii7 - V7 - Imaj7 - VI7",
+    "description": "The cycle of fifths in a jazz context.",
+    "chords": [
+      {
+        "root": "D",
+        "type": "min7",
+        "notes": [
+          "D",
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "7",
+        "notes": [
+          "G",
+          "B",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "maj7",
+        "notes": [
+          "C",
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "7",
+        "notes": [
+          "A",
+          "C#",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "advanced",
+    "tags": [
+      "jazz",
+      "cycle"
+    ],
+    "likes": 3200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "iii-vi-ii-V-turn",
+    "name": "iii - vi - ii - V",
+    "description": "Extended diatonic turnaround.",
+    "chords": [
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "intermediate",
+    "tags": [
+      "turnaround"
+    ],
+    "likes": 2300,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-I7-IV-iv-beatles",
+    "name": "I - I7 - IV - iv",
+    "description": "Beatles-style minor iv chord movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "7th",
+        "notes": [
+          "C",
+          "E",
+          "G",
+          "A#"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "minor",
+        "notes": [
+          "F",
+          "G#",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "minor iv",
+      "beatles"
+    ],
+    "likes": 4100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-sharp-i07-ii-V-pass",
+    "name": "I - #i\u00b07 - ii - V",
+    "description": "Passing diminished movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "C#",
+        "type": "diminished",
+        "notes": [
+          "C#",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "advanced",
+    "tags": [
+      "passing",
+      "diminished"
+    ],
+    "likes": 1900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "IV-iv-I-plagal",
+    "name": "IV - iv - I",
+    "description": "Standard minor plagal cadence.",
+    "chords": [
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "minor",
+        "notes": [
+          "F",
+          "G#",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "ballad",
+    "complexity": "intermediate",
+    "tags": [
+      "plagal",
+      "resolve"
+    ],
+    "likes": 6500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "ii-bII7-I-tritone",
+    "name": "ii - bII7 - I",
+    "description": "Jazz turnaround with tritone substitution.",
+    "chords": [
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "Db",
+        "type": "7",
+        "notes": [
+          "C#",
+          "F",
+          "G#",
+          "B"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "advanced",
+    "tags": [
+      "tritone sub"
+    ],
+    "likes": 1200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV7-I-V7-standard-blues",
+    "name": "I - IV7 - I - V7",
+    "description": "Foundational blues loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "7",
+        "notes": [
+          "F",
+          "A",
+          "C",
+          "D#"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "7",
+        "notes": [
+          "G",
+          "B",
+          "D",
+          "F"
+        ]
+      }
+    ],
+    "style": "blues",
+    "complexity": "intermediate",
+    "tags": [
+      "blues"
+    ],
+    "likes": 3400,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "ii-V-iii-vi-rnb-loop",
+    "name": "ii - V - iii - vi",
+    "description": "Common R&B movement.",
+    "chords": [
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "r&b",
+    "complexity": "intermediate",
+    "tags": [
+      "r&b",
+      "loop"
+    ],
+    "likes": 4200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "Imaj7-vi7-ii7-V7-smooth",
+    "name": "Imaj7 - vi7 - ii7 - V7",
+    "description": "Smooth R&B turnaround.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "maj7",
+        "notes": [
+          "C",
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "min7",
+        "notes": [
+          "A",
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "min7",
+        "notes": [
+          "D",
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "7",
+        "notes": [
+          "G",
+          "B",
+          "D",
+          "F"
+        ]
+      }
+    ],
+    "style": "r&b",
+    "complexity": "intermediate",
+    "tags": [
+      "smooth",
+      "r&b"
+    ],
+    "likes": 5100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-bVI7-V-bII7-descend",
+    "name": "vi - bVI7 - V - bII7",
+    "description": "Complex chromatic descent.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "Ab",
+        "type": "7",
+        "notes": [
+          "G#",
+          "C",
+          "D#",
+          "F#"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "Db",
+        "type": "7",
+        "notes": [
+          "C#",
+          "F",
+          "G#",
+          "B"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "advanced",
+    "tags": [
+      "descending",
+      "complex"
+    ],
+    "likes": 1100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-Vovervii-vi-V-walk",
+    "name": "I - V/vii - vi - V",
+    "description": "Descending bass line movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "ballad",
+    "complexity": "beginner",
+    "tags": [
+      "bassline"
+    ],
+    "likes": 4900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-vi-ii-bII7-jazz",
+    "name": "I - vi - ii - bII7",
+    "description": "Alt turnaround.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "Db",
+        "type": "7",
+        "notes": [
+          "C#",
+          "F",
+          "G#",
+          "B"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "intermediate",
+    "tags": [
+      "jazz"
+    ],
+    "likes": 1800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "IVmaj7-iii7-ii7-Imaj7-smooth",
+    "name": "IVmaj7 - iii7 - ii7 - Imaj7",
+    "description": "Stepwise smooth resolution.",
+    "chords": [
+      {
+        "root": "F",
+        "type": "maj7",
+        "notes": [
+          "F",
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "min7",
+        "notes": [
+          "E",
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "min7",
+        "notes": [
+          "D",
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "maj7",
+        "notes": [
+          "C",
+          "E",
+          "G",
+          "B"
+        ]
+      }
+    ],
+    "style": "r&b",
+    "complexity": "advanced",
+    "tags": [
+      "smooth",
+      "resolution"
+    ],
+    "likes": 3600,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-iii-bIII-ii-chrom",
+    "name": "I - iii - bIII - ii",
+    "description": "Chromatic passing chord pattern.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "Eb",
+        "type": "major",
+        "notes": [
+          "D#",
+          "G",
+          "A#"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      }
+    ],
+    "style": "ballad",
+    "complexity": "advanced",
+    "tags": [
+      "chromatic",
+      "ballad"
+    ],
+    "likes": 1500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "ii-V-i-minor-jazz",
+    "name": "ii - V - i",
+    "description": "The minor key foundation in jazz.",
+    "chords": [
+      {
+        "root": "B",
+        "type": "diminished",
+        "notes": [
+          "B",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "7",
+        "notes": [
+          "E",
+          "G#",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "advanced",
+    "tags": [
+      "jazz",
+      "essential"
+    ],
+    "likes": 2900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-bVI-bVII-rock",
+    "name": "I - IV - bVI - bVII",
+    "description": "Strong major movement loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "Ab",
+        "type": "major",
+        "notes": [
+          "G#",
+          "C",
+          "D#"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "rock"
+    ],
+    "likes": 2400,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-V-IV-iv-resolve",
+    "name": "I - V - IV - iv",
+    "description": "Classic emotional resolution.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "minor",
+        "notes": [
+          "F",
+          "G#",
+          "C"
+        ]
+      }
+    ],
+    "style": "ballad",
+    "complexity": "intermediate",
+    "tags": [
+      "minor iv",
+      "resolve"
+    ],
+    "likes": 5600,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-II7-ii-V-loop",
+    "name": "vi - II7 - ii - V",
+    "description": "Jazz loop with secondary dominant.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "major",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "intermediate",
+    "tags": [
+      "jazz",
+      "loop"
+    ],
+    "likes": 2800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-viio7-III7-vi-resolve",
+    "name": "I - vii\u00f87 - III7 - vi",
+    "description": "Complex minor key resolve.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "B",
+        "type": "min7b5",
+        "notes": [
+          "B",
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "jazz",
+    "complexity": "advanced",
+    "tags": [
+      "resolve",
+      "complex"
+    ],
+    "likes": 1700,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-ii-V-IV-folk",
+    "name": "I - ii - V - IV",
+    "description": "Folk-style turnaround loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "folk",
+    "complexity": "beginner",
+    "tags": [
+      "folk",
+      "turnaround"
+    ],
+    "likes": 1900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IoverIII-IV-V-walkup",
+    "name": "I - I/III - IV - V",
+    "description": "Walking up movement (Gospel).",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "gospel",
+    "complexity": "beginner",
+    "tags": [
+      "gospel",
+      "walking"
+    ],
+    "likes": 3200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-Vovervi-vi-IV-soul",
+    "name": "I - V/vi - vi - IV",
+    "description": "Secondary dominant soul movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "soul",
+    "complexity": "intermediate",
+    "tags": [
+      "soul",
+      "secondary dominant"
+    ],
+    "likes": 2700,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "IV-sharp-iv07-IoverV-VI7-gospel",
+    "name": "IV - #iv\u00b07 - I/V - VI7",
+    "description": "Complex gospel resolve.",
+    "chords": [
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "F#",
+        "type": "diminished",
+        "notes": [
+          "F#",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "7",
+        "notes": [
+          "A",
+          "C#",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "gospel",
+    "complexity": "advanced",
+    "tags": [
+      "gospel",
+      "advanced"
+    ],
+    "likes": 1100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "ii-IoverIII-IV-V-soul",
+    "name": "ii - I/III - IV - V",
+    "description": "Ascending soul movement.",
+    "chords": [
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "soul",
+    "complexity": "intermediate",
+    "tags": [
+      "soul",
+      "ascent"
+    ],
+    "likes": 2300,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-iii-IV-iv-romantic",
+    "name": "I - iii - IV - iv",
+    "description": "Romantic era resolution.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "minor",
+        "notes": [
+          "F",
+          "G#",
+          "C"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "intermediate",
+    "tags": [
+      "classical",
+      "romantic"
+    ],
+    "likes": 2100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-VoverV-V-I-cadence",
+    "name": "vi - V/V - V - I",
+    "description": "Strong classical cadence.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "major",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "intermediate",
+    "tags": [
+      "cadence"
+    ],
+    "likes": 1600,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-vi-IV-iv-amen",
+    "name": "I - vi - IV - iv",
+    "description": "Amen variation (Gospel).",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "minor",
+        "notes": [
+          "F",
+          "G#",
+          "C"
+        ]
+      }
+    ],
+    "style": "gospel",
+    "complexity": "beginner",
+    "tags": [
+      "gospel",
+      "amen"
+    ],
+    "likes": 2500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-sharp-iv07-V-gospel",
+    "name": "I - IV - #iv\u00b07 - V",
+    "description": "Gospel chromatic ascent.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "F#",
+        "type": "diminished",
+        "notes": [
+          "F#",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "gospel",
+    "complexity": "intermediate",
+    "tags": [
+      "gospel",
+      "chromatic"
+    ],
+    "likes": 1900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "Pachelbel-Long-Canon",
+    "name": "Pachelbel Long (Full Canon)",
+    "description": "The full extended Pachelbel Canon progression.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "intermediate",
+    "tags": [
+      "canon",
+      "classical"
+    ],
+    "likes": 8500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "IV-V-iii-vi-royal-road",
+    "name": "IV - V - iii - vi (Royal Road)",
+    "description": "Anime and J-Pop staple progression.",
+    "chords": [
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "intermediate",
+    "tags": [
+      "j-pop",
+      "anime"
+    ],
+    "likes": 5200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-vii-III-vi-resolve-soul",
+    "name": "I - vii - III - vi",
+    "description": "Strong minor resolution (Soul).",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "B",
+        "type": "diminished",
+        "notes": [
+          "B",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "soul",
+    "complexity": "advanced",
+    "tags": [
+      "soul",
+      "resolve"
+    ],
+    "likes": 2800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-bVII-IV-I-plagal",
+    "name": "I - bVII - IV - I",
+    "description": "Classic rock resolution loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "rock",
+      "plagal"
+    ],
+    "likes": 3900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-V-IV-vi-walk",
+    "name": "I - V - IV - vi",
+    "description": "Stable pop/rock walk.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "pop",
+      "stable"
+    ],
+    "likes": 2100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-V-vi-I-resolve",
+    "name": "I - V - vi - I",
+    "description": "Simple resolving loop.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "folk",
+    "complexity": "beginner",
+    "tags": [
+      "folk",
+      "resolve"
+    ],
+    "likes": 1200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-I-V-IV-adele",
+    "name": "vi - I - V - IV",
+    "description": "Minor to major mix loop.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "pop",
+      "moody"
+    ],
+    "likes": 9800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-vi-iii-IV-hook",
+    "name": "I - vi - iii - IV",
+    "description": "Stable hook movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "minor",
+        "notes": [
+          "E",
+          "G",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "pop",
+      "hook"
+    ],
+    "likes": 3100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-ii-V-I-basic",
+    "name": "I - ii - V - I",
+    "description": "The foundation of all major key music.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "beginner",
+    "tags": [
+      "essential",
+      "building block"
+    ],
+    "likes": 2800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "IV-I-ii-V-soul-turn",
+    "name": "IV - I - ii - V",
+    "description": "Soulful turnaround movement.",
+    "chords": [
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "soul",
+    "complexity": "beginner",
+    "tags": [
+      "soul",
+      "turnaround"
+    ],
+    "likes": 1600,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-ii-V-pop-turn",
+    "name": "I - IV - ii - V",
+    "description": "Standard pop turnaround.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "pop",
+      "standard"
+    ],
+    "likes": 2100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-IV-ii-V-moody-turn",
+    "name": "vi - IV - ii - V",
+    "description": "Moody minor turnaround.",
+    "chords": [
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "minor",
+        "notes": [
+          "D",
+          "F",
+          "A"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "moody",
+      "turnaround"
+    ],
+    "likes": 4200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-bIII-IV-spider",
+    "name": "I - bIII - IV",
+    "description": "Dark rock 'spider walk'.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "Eb",
+        "type": "major",
+        "notes": [
+          "D#",
+          "G",
+          "A#"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "experimental",
+      "rock"
+    ],
+    "likes": 2800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-bVI-I-space",
+    "name": "I - bVI - I",
+    "description": "Majestic third-leap movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "Ab",
+        "type": "major",
+        "notes": [
+          "G#",
+          "C",
+          "D#"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "intermediate",
+    "tags": [
+      "majestic",
+      "space"
+    ],
+    "likes": 1900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-II-IV-I-lydian",
+    "name": "I - II - IV - I",
+    "description": "Bright Lydian sound with major II.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "D",
+        "type": "major",
+        "notes": [
+          "D",
+          "F#",
+          "A"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "advanced",
+    "tags": [
+      "lydian",
+      "bright"
+    ],
+    "likes": 2200,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-bII-IV-mystery",
+    "name": "I - bII - IV",
+    "description": "Mysterious dissonant movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "Db",
+        "type": "major",
+        "notes": [
+          "C#",
+          "F",
+          "G#"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "advanced",
+    "tags": [
+      "mysterious",
+      "dissonant"
+    ],
+    "likes": 900,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-v-I-mixo-modal",
+    "name": "I - v - I",
+    "description": "Mixolydian modal sound.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "minor",
+        "notes": [
+          "G",
+          "A#",
+          "D"
+        ]
+      },
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "modal",
+      "mixolydian"
+    ],
+    "likes": 1500,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-III-IV-surprising",
+    "name": "I - III - IV",
+    "description": "Surprising major third movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "E",
+        "type": "major",
+        "notes": [
+          "E",
+          "G#",
+          "B"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    ],
+    "style": "ballad",
+    "complexity": "intermediate",
+    "tags": [
+      "surprising",
+      "major"
+    ],
+    "likes": 3600,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-bIII-bVII-heavy",
+    "name": "I - IV - bIII - bVII",
+    "description": "Heavy blues rock movement.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "Eb",
+        "type": "major",
+        "notes": [
+          "D#",
+          "G",
+          "A#"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "intermediate",
+    "tags": [
+      "heavy",
+      "blues-rock"
+    ],
+    "likes": 2400,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "vi-VII-i-oriental",
+    "name": "vi - VII - i",
+    "description": "Oriental-sounding minor resolution.",
+    "chords": [
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    ],
+    "style": "classical",
+    "complexity": "beginner",
+    "tags": [
+      "oriental",
+      "resolve"
+    ],
+    "likes": 4800,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "I-IV-V-bVII-mixo-walk",
+    "name": "I - IV - V - bVII",
+    "description": "Mixolydian rock walk.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "Bb",
+        "type": "major",
+        "notes": [
+          "A#",
+          "D",
+          "F"
+        ]
+      }
+    ],
+    "style": "rock",
+    "complexity": "beginner",
+    "tags": [
+      "mixolydian",
+      "rock"
+    ],
+    "likes": 2100,
+    "createdAt": "2026-02-01"
+  },
+  {
+    "id": "Circle-Loop-Extended",
+    "name": "The Circle Loop (I-V-IV-V-vi-V-IV-V)",
+    "description": "Extended pop loop covering most major scale degrees.",
+    "chords": [
+      {
+        "root": "C",
+        "type": "major",
+        "notes": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "A",
+        "type": "minor",
+        "notes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "root": "F",
+        "type": "major",
+        "notes": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "root": "G",
+        "type": "major",
+        "notes": [
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "style": "pop",
+    "complexity": "beginner",
+    "tags": [
+      "extended",
+      "loop"
+    ],
+    "likes": 3700,
+    "createdAt": "2026-02-01"
+  }
+]
