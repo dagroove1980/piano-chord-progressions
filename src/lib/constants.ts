@@ -1,5 +1,7 @@
 export const SITE_NAME = 'Piano Chord Progressions';
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000';
+export const SITE_URL = process.env.VERCEL_PROJECT_PRODUCTION_URL
+  ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+  : process.env.NEXT_PUBLIC_SITE_URL || 'https://piano-chord-progressions.vercel.app';
 export const SITE_DESCRIPTION = 'Discover the most famous piano chord progressions by style and complexity. Learn where to place your fingers on the keyboard.';
 
 export const ALL_STYLES = [
