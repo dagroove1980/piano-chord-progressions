@@ -9,7 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
     { 
-      url: BASE_URL.trim(), 
+      url: BASE_URL, 
       lastModified: now, 
       changeFrequency: 'weekly', 
       priority: 1.0 
@@ -18,7 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Individual progression pages
   const progressionPages: MetadataRoute.Sitemap = getAllProgressions().map((progression) => ({
-    url: `${BASE_URL.trim()}/progression/${progression.id}`,
+    url: `${BASE_URL}/progression/${progression.id}`,
     lastModified: new Date(progression.createdAt).toISOString(),
     changeFrequency: 'monthly' as const,
     priority: 0.8,
