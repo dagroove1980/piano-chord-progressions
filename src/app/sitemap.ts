@@ -4,14 +4,20 @@ import { SITE_URL } from '@/lib/constants';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const progressions = getAllProgressions();
+  const baseUrl = SITE_URL.trim();
+  
   return [
     {
-      url: SITE_URL,
+      url: baseUrl,
       lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 1,
     },
     ...progressions.map((progression) => ({
-      url: `${SITE_URL}/progression/${progression.id}`,
+      url: `${baseUrl}/progression/${progression.id}`,
       lastModified: new Date(progression.createdAt),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
     })),
   ];
 }
