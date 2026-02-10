@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { Space_Grotesk, Inter, IBM_Plex_Mono } from 'next/font/google';
 import './globals.css';
 import { Header } from '@/components/Header';
+import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/constants';
 
 const spaceGrotesk = Space_Grotesk({
   variable: '--font-space-grotesk',
@@ -24,12 +25,11 @@ const ibmPlexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Piano Chord Progressions — Learn Famous Progressions',
-    template: '%s | Piano Chord Progressions',
+    default: `${SITE_NAME} — Learn Famous Progressions`,
+    template: `%s | ${SITE_NAME}`,
   },
-  description:
-    'Discover the most famous piano chord progressions by style and complexity. Learn where to place your fingers on the keyboard with interactive visualizations.',
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
+  description: SITE_DESCRIPTION,
+  metadataBase: new URL(SITE_URL),
   openGraph: {
     type: 'website',
     siteName: 'Piano Chord Progressions',

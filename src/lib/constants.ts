@@ -1,7 +1,14 @@
 export const SITE_NAME = 'Piano Chord Progressions';
-export const SITE_URL = process.env.VERCEL_PROJECT_PRODUCTION_URL
-  ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-  : process.env.NEXT_PUBLIC_SITE_URL || 'https://piano-chord-progressions.vercel.app';
+const getSiteUrl = () => {
+  const url =
+    process.env.VERCEL_PROJECT_PRODUCTION_URL
+      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+      : process.env.NEXT_PUBLIC_SITE_URL || 'https://piano-chord-progressions.vercel.app';
+
+  return url.replace(/\/$/, ''); // Ensure no trailing slash
+};
+
+export const SITE_URL = getSiteUrl();
 export const SITE_DESCRIPTION = 'Discover the most famous piano chord progressions by style and complexity. Learn where to place your fingers on the keyboard.';
 
 export const ALL_STYLES = [
