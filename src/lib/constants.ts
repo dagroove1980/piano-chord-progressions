@@ -45,6 +45,19 @@ export const COMPLEXITY_LABELS: Record<string, string> = {
   advanced: 'Advanced',
 };
 
+export const STYLE_ICONS: Record<string, string> = {
+  pop: 'music',
+  jazz: 'sparkles',
+  blues: 'moon',
+  rock: 'flame',
+  classical: 'crown',
+  ballad: 'heart',
+  'r&b': 'star',
+  country: 'sun',
+  folk: 'trees',
+  gospel: 'zap',
+};
+
 // AdSense Configuration (optional)
 export const ADSENSE_PUBLISHER_ID = process.env.NEXT_PUBLIC_ADSENSE_PUBLISHER_ID || '';
 export const AD_SLOT_IDS = {

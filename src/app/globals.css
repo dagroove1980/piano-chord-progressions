@@ -1,22 +1,24 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-background: #FAFAFA;
-  --color-foreground: #1A1A1A;
-  --color-secondary: #888888;
-  --color-accent: #E63946;
+  --color-background: #F5F3FF;
+  --color-foreground: #1E1B4B;
+  --color-secondary: #6B6394;
+  --color-accent: #6366F1;
+  --color-accent-hover: #4F46E5;
+  --color-accent-light: #EEF2FF;
   --color-card: #FFFFFF;
-  --color-border: #E5E5E5;
+  --color-border: #E9E5F5;
 
   --font-heading: var(--font-space-grotesk);
   --font-body: var(--font-inter);
   --font-mono: var(--font-ibm-plex-mono);
 
-  --radius-card: 16px;
-  --radius-pill: 20px;
+  --radius-card: 20px;
+  --radius-pill: 9999px;
 
-  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.06), 0 8px 24px rgba(0, 0, 0, 0.04);
-  --shadow-card-hover: 0 4px 12px rgba(0, 0, 0, 0.08), 0 16px 40px rgba(0, 0, 0, 0.08);
+  --shadow-card: 0 1px 3px rgba(30, 27, 75, 0.06), 0 8px 24px rgba(30, 27, 75, 0.04);
+  --shadow-card-hover: 0 4px 12px rgba(30, 27, 75, 0.08), 0 16px 40px rgba(30, 27, 75, 0.08);
 }
 
 body {

@@ -5,6 +5,7 @@ import { getProgressionById, getAllProgressions, getSimilarProgressions } from '
 import { PianoKeyboard } from '@/components/PianoKeyboard';
 import { ProgressionGrid } from '@/components/ProgressionGrid';
 import { STYLE_LABELS, COMPLEXITY_LABELS, SITE_URL } from '@/lib/constants';
+import { styleColors, complexityColors } from '@/lib/colors';
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -94,10 +95,16 @@ export default async function ProgressionPage({ params }: Props) {
         <p className="text-lg text-[var(--color-secondary)] mb-6">{progression.description}</p>
 
         <div className="flex flex-wrap gap-3">
-          <span className="px-3 py-1 rounded-[var(--radius-pill)] bg-[var(--color-accent)]/10 text-[var(--color-accent)] text-sm">
+          <span
+            className="px-3 py-1 rounded-[var(--radius-pill)] text-sm font-medium"
+            style={{ backgroundColor: (styleColors[progression.style] || { bg: '#EEF2FF' }).bg, color: (styleColors[progression.style] || { text: '#3730A3' }).text }}
+          >
             {STYLE_LABELS[progression.style]}
           </span>
-          <span className="px-3 py-1 rounded-[var(--radius-pill)] bg-[var(--color-border)] text-[var(--color-secondary)] text-sm">
+          <span
+            className="px-3 py-1 rounded-[var(--radius-pill)] text-sm font-medium"
+            style={{ backgroundColor: (complexityColors[progression.complexity] || { bg: '#F3F4F6' }).bg, color: (complexityColors[progression.complexity] || { text: '#374151' }).text }}
+          >
             {COMPLEXITY_LABELS[progression.complexity]}
           </span>
         </div>

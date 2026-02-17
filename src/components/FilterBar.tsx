@@ -35,8 +35,8 @@ export function FilterBar({ selectedStyle, selectedComplexity }: FilterBarProps)
             onClick={() => updateFilter('style', null)}
             className={`px-4 py-2 rounded-[var(--radius-pill)] text-sm transition-colors ${
               !selectedStyle
-                ? 'bg-[var(--color-accent)] text-white'
-                : 'bg-[var(--color-background)] text-[var(--color-foreground)] hover:bg-[var(--color-border)]'
+                ? 'bg-[var(--color-accent)]/10 text-[var(--color-accent)] border border-[var(--color-accent)]'
+                : 'bg-[var(--color-card)] text-[var(--color-foreground)] border border-[var(--color-border)] hover:bg-[var(--color-accent)]/5'
             }`}
           >
             All
@@ -67,8 +67,8 @@ export function FilterBar({ selectedStyle, selectedComplexity }: FilterBarProps)
             onClick={() => updateFilter('complexity', null)}
             className={`px-4 py-2 rounded-[var(--radius-pill)] text-sm transition-colors ${
               !selectedComplexity
-                ? 'bg-[var(--color-accent)] text-white'
-                : 'bg-[var(--color-background)] text-[var(--color-foreground)] hover:bg-[var(--color-border)]'
+                ? 'bg-[var(--color-accent)]/10 text-[var(--color-accent)] border border-[var(--color-accent)]'
+                : 'bg-[var(--color-card)] text-[var(--color-foreground)] border border-[var(--color-border)] hover:bg-[var(--color-accent)]/5'
             }`}
           >
             All
