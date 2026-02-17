@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og';
 
 export const runtime = 'edge';
 
-export const alt = 'Piano Chord Progressions — Master the Keys';
+export const alt = 'LearnPianoChords — Master the Keys';
 export const size = {
     width: 1200,
     height: 630,
@@ -61,7 +61,7 @@ export default async function Image() {
                         }}
                     >
                         <span style={{ fontSize: 100 }}>🎹</span>
-                        <span>Piano Chords</span>
+                        <span>LearnPiano</span>
                     </div>
 
                     <div
@@ -74,7 +74,7 @@ export default async function Image() {
                             textTransform: 'uppercase',
                         }}
                     >
-                        Progressions
+                        Chords
                     </div>
 
                     <div

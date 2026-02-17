@@ -32,8 +32,8 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   openGraph: {
     type: 'website',
-    siteName: 'Piano Chord Progressions',
-    title: 'Piano Chord Progressions — Learn Famous Progressions',
+    siteName: 'LearnPianoChords',
+    title: 'LearnPianoChords — Learn Famous Progressions',
     description:
       'Discover the most famous piano chord progressions by style and complexity.',
   },

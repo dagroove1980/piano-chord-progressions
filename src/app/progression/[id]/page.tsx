@@ -52,11 +52,11 @@ export default async function ProgressionPage({ params }: Props) {
     dateModified: progression.createdAt,
     author: {
       '@type': 'Organization',
-      name: 'Piano Chord Progressions',
+      name: 'LearnPianoChords',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Piano Chord Progressions',
+      name: 'LearnPianoChords',
     },
     mainEntityOfPage: {
       '@type': 'WebPage',

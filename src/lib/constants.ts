@@ -1,9 +1,9 @@
-export const SITE_NAME = 'Piano Chord Progressions';
+export const SITE_NAME = 'LearnPianoChords';
 const getSiteUrl = () => {
   const url =
     process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : process.env.NEXT_PUBLIC_SITE_URL || 'https://piano-chord-progressions.vercel.app';
+      : process.env.NEXT_PUBLIC_SITE_URL || 'https://learn-piano-chords.com';
 
   return url.replace(/\/$/, ''); // Ensure no trailing slash
 };

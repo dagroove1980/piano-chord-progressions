@@ -35,14 +35,14 @@ export default async function Home({ searchParams }: HomeProps) {
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'Piano Chord Progressions',
+    name: 'LearnPianoChords',
     description: SITE_DESCRIPTION,
-    url: process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000',
+    url: process.env.NEXT_PUBLIC_SITE_URL || 'https://learn-piano-chords.com',
     potentialAction: {
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}?style={search_term_string}`,
+        urlTemplate: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://learn-piano-chords.com'}?style={search_term_string}`,
       },
       'query-input': 'required name=search_term_string',
     },
@@ -58,7 +58,7 @@ export default async function Home({ searchParams }: HomeProps) {
       {/* Hero */}
       <section className="py-12 sm:py-16 text-center mb-8">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight mb-4">
-          Piano Chord Progressions
+          LearnPianoChords
         </h1>
         <p className="text-lg sm:text-xl text-[var(--color-secondary)] max-w-2xl mx-auto">
           {SITE_DESCRIPTION}
