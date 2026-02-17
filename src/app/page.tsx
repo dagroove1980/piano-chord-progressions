@@ -61,12 +61,15 @@ export default async function Home({ searchParams }: HomeProps) {
       />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Hero */}
-      <section className="py-12 sm:py-16 text-center mb-8">
-        <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight mb-4">
+      <section className="relative py-12 sm:py-16 text-center mb-8 overflow-hidden">
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none" aria-hidden="true">
+          <div className="w-[500px] h-[300px] rounded-full bg-[var(--color-accent)] opacity-[0.08] blur-[100px]" />
+        </div>
+        <h1 className="relative text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight mb-4">
           Piano chord progressions<br />
           <span className="text-[var(--color-accent)]">worth learning.</span>
         </h1>
-        <p className="text-lg sm:text-xl text-[var(--color-secondary)] max-w-2xl mx-auto">
+        <p className="relative text-lg sm:text-xl text-[var(--color-secondary)] max-w-2xl mx-auto">
           {SITE_DESCRIPTION}
         </p>
       </section>
